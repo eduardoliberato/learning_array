@@ -1,7 +1,9 @@
 # learning_array
-This program reads the name and price of  the products that you declare, then save it in an array and return the average price of the products
+This program reads the name and price of  the products that you declare, then save it in an array and return the average price of the products.
 
-A quick explanation: 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+A quick explanation about arrays: 
 
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 
@@ -49,6 +51,9 @@ System.out.println(cars.length);
 // Outputs 4
 
 Source: https://www.w3schools.com/java/java_arrays.asp
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
